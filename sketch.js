@@ -49,7 +49,7 @@ function setup() {
   hexa=Bodies.circle(50,200,20)
   World.add(world,hexa)
 
-  chain=new Chain(hexa,{x:150,y:200})
+  chain=new Chain(hexa,{x:150,y:100})
 
   
 
